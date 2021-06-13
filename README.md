@@ -1,1 +1,0 @@
-# Color-Picker---Rust-Native-Application
